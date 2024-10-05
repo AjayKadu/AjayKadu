@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!👋, I'm Ajay Kadu
 
 # 💫 About Me:
 ⌨️I Completed My B.E (I.T) <br>💻I am C-DAC Student <br>📚I am Currently Learning<br>150+ LeetCode Problem Solve
