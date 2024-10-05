@@ -1,6 +1,6 @@
 ## Hi!👋, I'm Ajay Kadu
 
-# 💫 About Me:
+# A passionate Full Stack Developer from India
 ⌨️I Completed My B.E (I.T) <br>💻I am C-DAC Student <br>📚I am Currently Learning<br>150+ LeetCode Problem Solve
 
 
